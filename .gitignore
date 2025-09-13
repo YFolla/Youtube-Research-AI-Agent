@@ -1,0 +1,8 @@
+node_modules/
+.env
+youtube-research.md
+*.log
+youtube-GregIsenberg-report.md
+youtube-PeterYangYT-report.md
+youtube-channels.md
+youtube-batch-report.md
